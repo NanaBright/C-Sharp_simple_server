@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ServerOne\ServerOne\bin\Debug\netcoreapp3.1\ServerOne.exe
+C:\Users\ACER\source\repos\ServerOne\ServerOne\bin\Debug\netcoreapp3.1\ServerOne.deps.json
+C:\Users\ACER\source\repos\ServerOne\ServerOne\bin\Debug\netcoreapp3.1\ServerOne.runtimeconfig.json
+C:\Users\ACER\source\repos\ServerOne\ServerOne\bin\Debug\netcoreapp3.1\ServerOne.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ServerOne\ServerOne\bin\Debug\netcoreapp3.1\ServerOne.dll
+C:\Users\ACER\source\repos\ServerOne\ServerOne\bin\Debug\netcoreapp3.1\ServerOne.pdb
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.dll
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.pdb
+C:\Users\ACER\source\repos\ServerOne\ServerOne\obj\Debug\netcoreapp3.1\ServerOne.genruntimeconfig.cache
