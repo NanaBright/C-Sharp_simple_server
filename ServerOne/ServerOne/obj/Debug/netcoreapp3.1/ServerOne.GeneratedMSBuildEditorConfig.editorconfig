@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = ServerOne
-build_property.ProjectDir = C:\Users\ACER\source\repos\ServerOne\ServerOne\
+build_property.ProjectDir = /home/runner/work/C-Sharp_simple_server/C-Sharp_simple_server/ServerOne/ServerOne/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

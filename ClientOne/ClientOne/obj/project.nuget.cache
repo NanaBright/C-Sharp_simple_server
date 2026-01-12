@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2hg4w8xJoYo2tHe6dfXZ+TRMUfVl44LCtyu8LIaDLTTwZYL3E5A4g+0QeAr4iQMEXToPZnaHnzhhpaWSouPgRQ==",
+  "dgSpecHash": "C/fjnejZBs0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\ClientOne\\ClientOne\\ClientOne.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/runner/work/C-Sharp_simple_server/C-Sharp_simple_server/ClientOne/ClientOne/ClientOne.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.32/microsoft.netcore.app.host.linux-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
