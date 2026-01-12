@@ -2,7 +2,7 @@
 
 A lightweight TCP socket-based client-server application written in C# demonstrating basic network communication using the .NET Socket API. This project consists of a multithreaded echo server that can handle multiple concurrent client connections.
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -15,7 +15,7 @@ A lightweight TCP socket-based client-server application written in C# demonstra
 - [How It Works](#how-it-works)
 - [Contributing](#contributing)
 
-## 🎯 Overview
+## Overview
 
 This project demonstrates fundamental concepts of network programming in C#, including:
 - TCP socket communication
@@ -25,7 +25,7 @@ This project demonstrates fundamental concepts of network programming in C#, inc
 
 The server accepts multiple client connections simultaneously and echoes back any message sent by the client, making it an excellent starting point for learning network programming or building more complex communication protocols.
 
-## ✨ Features
+## Features
 
 - **Multithreaded Server**: Handles multiple client connections concurrently using threads
 - **Echo Protocol**: Echoes back all messages received from clients
@@ -33,7 +33,7 @@ The server accepts multiple client connections simultaneously and echoes back an
 - **Connection Tracking**: Displays the number of connected clients
 - **Localhost Communication**: Pre-configured for local testing on `127.0.0.1:13000`
 
-## 🔧 Prerequisites
+## Prerequisites
 
 Before running this project, ensure you have the following installed:
 
@@ -43,7 +43,7 @@ Before running this project, ensure you have the following installed:
 
 > **Note**: .NET Core 3.1 is out of support. Consider upgrading to a supported version like .NET 6 or later for production use.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 C-Sharp_simple_server/
@@ -60,7 +60,7 @@ C-Sharp_simple_server/
         └── Program.cs        # Client implementation
 ```
 
-## 🚀 Installation
+## Installation
 
 1. **Clone the repository**:
    ```bash
@@ -132,7 +132,7 @@ The server is now listening on `127.0.0.1:13000` and ready to accept client conn
 
 You can run multiple client instances simultaneously to test the server's multithreading capabilities. Simply open additional terminal windows and repeat the client running steps.
 
-## 🏗️ Architecture
+## Architecture
 
 ### Server Architecture
 
@@ -158,7 +158,7 @@ The client uses a simple blocking I/O model:
 4. Receives and displays echoed response
 5. Repeats in a loop
 
-## ⚙️ Configuration
+## Configuration
 
 Both server and client use the following default configuration:
 
@@ -177,7 +177,7 @@ int port = 13000;
 string IpAddress = "127.0.0.1";
 ```
 
-## 🔍 How It Works
+## How It Works
 
 ### Server Flow
 
@@ -206,7 +206,7 @@ Messages are sent as ASCII-encoded byte arrays. The protocol is simple:
 - Server echoes: Same bytes received
 - Client decodes: Converts bytes back to string for display
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here are some ways you can improve this project:
 
@@ -225,17 +225,3 @@ Contributions are welcome! Here are some ways you can improve this project:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is available for educational purposes. Please check the repository for license information.
-
-## 🔗 Additional Resources
-
-- [.NET Socket Programming Documentation](https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.socket)
-- [TCP/IP Protocol Overview](https://docs.microsoft.com/en-us/dotnet/framework/network-programming/tcp-udp)
-- [Threading in C#](https://docs.microsoft.com/en-us/dotnet/standard/threading/)
-
----
-
-**Note**: This is a demonstration project intended for learning purposes. For production use, consider implementing proper error handling, security measures, and using modern async/await patterns instead of thread-per-client model.
